@@ -1,0 +1,4 @@
+/skeleton_images/*
+*.png
+*.pyc
+.idea/
